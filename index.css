@@ -994,8 +994,8 @@ textarea {
 }
 
 .hidden-avatars {
-  width: var(--avatar-size);
-  height: var(--avatar-size);
+  width: 7rem;
+  height: 7rem;
   background-color: var(--color-primary-light);
   color: #fff;
   border-radius: 100%;
