@@ -1,9 +1,9 @@
 # Practice-Project-Tapsi
 I coding this project for practice html and CSS  
 <dr>
-Challenge ::
+  ![](./assets/image/tapsi-main.png)
  <br>
- ![](./assets/image/tapsi-main.png)
+Challenge ::
 <br>
  - Html 
  - Css 
